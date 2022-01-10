@@ -1,0 +1,16 @@
+{
+  "name": "2-mergichka",
+  "version": "1.0.0",
+  "description": "Antrasis NPM projektas :P",
+  "main": "index.js",
+   "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["HTML", "CSS"],
+  "author": "Andrius B.",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.4"
+  }
+}
